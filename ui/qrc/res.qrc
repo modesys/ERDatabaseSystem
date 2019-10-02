@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>close.png</file>
+        <file>copy.png</file>
+        <file>database.png</file>
+        <file>erase_or_cut.png</file>
+        <file>manual.png</file>
+        <file>new_database.png</file>
+        <file>open_database.png</file>
+        <file>open_sql.png</file>
+        <file>paste.png</file>
+        <file>preferences.png</file>
+        <file>print2.png</file>
+        <file>run_execute.png</file>
+        <file>save_database.png</file>
+        <file>save_sql.png</file>
+        <file>search_and_replace.png</file>
+        <file>search.png</file>
+        <file>table.png</file>
+        <file>images.png</file>
+        <file>not_working.png</file>
+        <file>working.png</file>
+        <file>close2.png</file>
+        <file>remove_item.png</file>
+        <file>open.png</file>
+        <file>open_image.png</file>
+        <file>cloud_connection.png</file>
+        <file>cloud_disconnection.png</file>
+        <file>accept.png</file>
+        <file>add_item.png</file>
+    </qresource>
+</RCC>
